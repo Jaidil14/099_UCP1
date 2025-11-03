@@ -3,6 +3,7 @@
     "username": "root",
     "password": "123",
     "database": "perpustakaan",
+    "port": "3309",
     "host": "localhost",
     "dialect": "mysql"
   },
